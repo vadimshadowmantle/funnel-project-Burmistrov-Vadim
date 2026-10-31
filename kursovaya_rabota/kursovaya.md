@@ -8,10 +8,10 @@
 
 | Что | Ссылка |
 |---|---|
-| Репозиторий проекта | https://github.com/vadimshadowmantle/tz-14-fotostudiya-kadr35 |
+| Репозиторий проекта | https://github.com/vadimshadowmantle/tz-14-fotostudiya-kadr35-main |
 | Сайт на Vercel | https://tz-14-fotostudiya-kadr35.vercel.app |
 | Описание работы `docs/opisanie.md` | https://github.com/vadimshadowmantle/tz-14-fotostudiya-kadr35/blob/main/docs/opisanie.md |
-| Презентация `presentation/zashchita.pdf` | https://github.com/vadimshadowmantle/tz-14-fotostudiya-kadr35/blob/main/presentation/zashchita.pdf |
+| Презентация `presentation/zashchita.pdf` | https://github.com/vadimshadowmantle/tz-14-fotostudiya-kadr35-main/blob/main/presentation/zashchita.pptx |
 | Таблица заявок (доступ на просмотр) | https://docs.google.com/spreadsheets/d/1Bzp6WCqNPrF_MocAPSfABBoY0GPIYJEJKyGO_6qOMcc/edit |
 | Дашборд DataLens | не сделан |
 | Reel с автоответом | https://www.instagram.com/stepan.1.stepanish/ (Reel — первая публикация профиля) |
@@ -28,4 +28,4 @@
 - [x] Презентация в PDF, доклад укладывается в 7 минут
 
 **Не получилось:** дашборд DataLens; настройки атрибуции и оповещение по сегменту instagram (в GA4 недоступны, подробнее в `docs/report.md`); публикации на YouTube и у партнёров; короткие ссылки clck.ru.
-**ИИ:** использовал Claude Code для кода сайта.
+**ИИ:** код сайта, тексты, схемы. Запросы — в prompts.md
